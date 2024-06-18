@@ -1,5 +1,3 @@
-# app/services/appointment_service.py
-
 class AppointmentService:
     def __init__(self, db):
         self.db = db
