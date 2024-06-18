@@ -1,5 +1,3 @@
-# app/services/reminder_service.py
-
 class ReminderService:
     def __init__(self, db):
         self.db = db
