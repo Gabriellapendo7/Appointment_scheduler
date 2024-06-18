@@ -1,8 +1,19 @@
 # Appointment Management Application
 
-## Overview
+# 18/06/2024
+
+### By GABRIELLA PENDO
+
+## Description
 
 This application allows you to manage clients, appointments, and reminders. It uses a MySQL database for data storage.
+
+# live site
+https://github.com/Gabriellapendo7/Appointment_scheduler
+
+
+# Technology used
+1. python
 
 ## Directory Structure
 
@@ -20,3 +31,12 @@ This application allows you to manage clients, appointments, and reminders. It u
 1. Install dependencies:
    ```sh
    pip install -r requirements.txt
+
+
+## Support and contact details 
+https://github.com/Gabriellapendo7 
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
+
