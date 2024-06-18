@@ -5,9 +5,9 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from app.db.database import Database
-from app.services.client_service import ClientService
-from app.services.appointment_service import AppointmentService
-from app.services.reminder_service import ReminderService
+from app.models.client_service import ClientService
+from app.models.appointment_service import AppointmentService
+from app.models.reminder_service import ReminderService
 
 def main():
     db = Database(db_file='appointments.db')
